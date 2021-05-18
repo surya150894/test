@@ -1,0 +1,7 @@
+this is c
+
+<<<<<<< HEAD
+this is for merge-conflict by tejesh
+=======
+this is merge-conflic in UI
+>>>>>>> e619fc96f724d678849f03c7624e282cd4a526b9
